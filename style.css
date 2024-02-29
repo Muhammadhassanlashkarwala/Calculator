@@ -44,7 +44,7 @@ h1{
 form .display{
  display: flex;
  justify-content: flex-end;
- margin: 10px 0px;
+ /* margin: 10px 0px; */
 }
 form .display input{
     text-align: right;
